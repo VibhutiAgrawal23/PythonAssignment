@@ -1,0 +1,6 @@
+This is the sample file
+Here, we will print those lines containing python
+Created for the purpose of demo
+We will be searching for the Python keyword
+python is very powerful language
+These are some of the dummy lines in the file.
